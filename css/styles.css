@@ -6,7 +6,7 @@ body {
 }
 
 header {
-  background-color: #007bff;
+  background-color: #778da9;
   color: white;
   text-align: center;
   padding: 1rem;
@@ -32,7 +32,7 @@ input, select, button {
 }
 
 button {
-  background-color: #007bff;
+  background-color: #778da9;
   color: white;
   border: none;
   cursor: pointer;
@@ -96,7 +96,7 @@ button:hover {
   width: 100%;
   padding: 10px;
   margin-top: 20px;
-  background-color: #007bff;
+  background-color: #778da9;
   color: white;
   border: none;
   border-radius: 5px;
@@ -113,7 +113,7 @@ button:hover {
 }
 
 header {
-  background-color: #007bff;
+  background-color: #778da9;
   color: white;
   text-align: center;
   padding: 1rem;
